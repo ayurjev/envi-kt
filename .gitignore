@@ -1,4 +1,7 @@
 *.gradle*
-*.idea*
-*.DS_
+*.idea/*
+*.DS_*
 *._.*
+build/*
+envi.iml
+out/*
