@@ -1,4 +1,4 @@
-package envi.tests.ControllerFactory;
+package envi.tests.ControllerFactoryTest;
 
 import kotlin.test.*
 import org.junit.Test as test
